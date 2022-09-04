@@ -1,32 +1,32 @@
 # tsinghpc
 
-"""
-title = "My first post"
-date = 2022-09-03
-"""
+```
+title = ”为中华之崛起而读书“
+date  = “2022-09-03”
+```
 
 ## SSO
-1.tsingsso
+  * tsingsso
 
 ## VPN environment connection
-1. tsingvpn
-2. openvpn or IPSEC
+  * tsingvpn
+  * openvpn or IPSEC
 
 ## Login environment connection
-1. tsinglogin
-2. ex:ETX or Nice dcv
+  * tsinglogin
+  * ex:ETX or Nice dcv
 
 ## job cluster management platform
-1. tsingjobs
-2. ex: slurm or lsf
+  * tsingjobs
+  * ex: slurm or lsf
 
 ## Data management
-1. data storage ex:tsingstor
-2. data transfer and approve flow
+  * data storage ex:tsingstor
+  * data transfer and approve flow
 
 ## Other service
-1. license management
-2. CI/CD service
-3. AI API
-4. module tools
-5. environment package management
+  * license management
+  * CI/CD service
+  * AI API
+  * module tools
+  * environment package management
