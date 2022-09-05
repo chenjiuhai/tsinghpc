@@ -16,27 +16,27 @@ date  = “2022-09-03”
 ```
 
 ## SSO
-  * tsingsso
+  * Tsingsso: https://github.com/chenjiuhai/tsingsso
 
 ## VPN environment connection
-  * tsingvpn
+  * Tsingvpn: https://github.com/chenjiuhai/tsingvpn
   * openvpn or IPSEC
 
 ## Login environment connection
-  * tsinglogin
+  * Tsinglogin: https://github.com/chenjiuhai/tsinglogin
   * ex:ETX or Nice dcv
 
 ## job cluster management platform
-  * tsingjobs
+  * Tsingjobs: https://github.com/chenjiuhai/tsingjobs
   * ex: slurm or lsf
 
 ## Data management
-  * data storage ex:tsingstor
-  * data transfer and approve flow
+  * data storage ex::Tsingstor:: https://github.com/chenjiuhai/tsingstor
+  * data transfer and approve flow ex::Tsingftp:: https://github.com/chenjiuhai/tsingftp
 
 ## Other service
-  * license management
+  * license management Ex::Tsinglic:: https://github.com/chenjiuhai/tsinglic
   * CI/CD service
-  * AI API
-  * module tools
-  * environment package management
+  * AI API Ex::Tsingapi:: https://github.com/chenjiuhai/tsingapi
+  * module tools Ex::Tsingmod:: https://github.com/chenjiuhai/tsingmod
+  * environment package management Ex::Tsingapt:: https://github.com/chenjiuhai/tsingapt
